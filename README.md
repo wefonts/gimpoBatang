@@ -1,5 +1,5 @@
 # gimpoBatang
-김포평화바탕체
+김포평화 바탕체
 
 <pre>
 @font-face {
